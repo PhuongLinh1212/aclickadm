@@ -1,6 +1,6 @@
 {
   "ads": {
-    "id_app": "5f1eee5de88d834ccd84aa90",
+    "id_app": "5f1fa6b5e88d834ccd84aa95",
     "banner_setting": "ca-app-pub-4084941899768286/2648748528",
     "inter_setting": "ca-app-pub-4084941899768286/9757082353",
     "banner_main": "ca-app-pub-4084941899768286/5817837343",
@@ -9,7 +9,7 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.404notfound.automatictap.autoclicker",
+    "id": "com.auto.automatictap.autoclicker",
     "is_exists": true,
     "is_show_more": false
   },
