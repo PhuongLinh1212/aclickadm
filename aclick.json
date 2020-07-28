@@ -4,7 +4,9 @@
     "banner_setting": "ca-app-pub-4084941899768286/2648748528",
     "inter_setting": "ca-app-pub-4084941899768286/9757082353",
     "banner_main": "ca-app-pub-4084941899768286/5817837343",
-    "inter_main": "ca-app-pub-4084941899768286/8252428996"
+    "inter_main": "ca-app-pub-4084941899768286/8252428996",
+    "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.404notfound.automatictap.autoclicker",
